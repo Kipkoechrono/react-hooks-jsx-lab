@@ -52,7 +52,7 @@ how to set the color correctly.
 
 ### About
 
-The `<About>` component should return the following JSX elements:
+The `<About>` component should return the following JSX elements: 
 
 - a `<div>` element with an id of "about"
 - inside the div element, there should be three child elements:
